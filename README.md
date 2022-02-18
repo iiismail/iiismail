@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ismail 
 
-- *Soon to **graduate from my Software Engineering degree** 
+- Soon to **graduate from my Software Engineering degree** 
 - Expected to achieve a **first class degree**,
 - Experienced in various technologies (see my work below)
 - Grounded in the fundementals of Computer Science which I have demonstrated through my **high marks** during my degree
