@@ -1,6 +1,10 @@
-### Hi there 👋 
+### Hi there 👋 I'm Ismail 
 
-*My name's Ismail and I'm soon about to **graduate from my Software Engineering degree** from the University of Huddersfield in the UK. I am expected to achieve a **first class degree**, and therefore I am excited to look for my first graduate role! I have experience in various technologies (see my work below), and I am grounded in the fundementals of Computer Science which I have demonstrated through my **high marks** during my degree, and by being a **data structures and algorithms teacher** for the Google Student Developer Club!*
+- *Soon to **graduate from my Software Engineering degree** 
+- Expected to achieve a **first class degree**,
+- Experienced in various technologies (see my work below)
+- Grounded in the fundementals of Computer Science which I have demonstrated through my **high marks** during my degree
+- **data structures and algorithms teacher** for the Google Student Developer Club!*
 
 **Academic Achievements during my degree:**
 
