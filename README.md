@@ -4,10 +4,10 @@
 - Expected to achieve a **first class degree**,
 - Experienced in various technologies (see my work below)
 - Grounded in the fundementals of Computer Science which I have demonstrated through my **high marks** during my degree
-- **data structures and algorithms teacher** for the Google Student Developer Club!*
-- Knows Solidity and programming blockchain healthcare final project
+- **Data structures and algorithms teacher** for the Google Student Developer Club!
+- Knows **Solidity** and currently **building blockchain healthcare final year project**
 
-**Academic Achievements during my degree:**
+**Key Academic Achievements during my degree:**
 
 - 100% in SQL Databases  
 - 100% in Hardware and Networks (Examination)
