@@ -13,7 +13,7 @@
 - 100% in Hardware and Networks (Examination)
 - 100% in Computational Mathematics (Year 2 end of year examination)
 - 88% in Final year Arificial Intelligence 
-- 85% in first year Mathematics exam 
+- 88% in first year Mathematics exam 
 
 **All recordings of my weekly Data Structures and Algorithms sessions are available upon request. I am preparing my students (along with myself) to participate in various coding contests** 
 
